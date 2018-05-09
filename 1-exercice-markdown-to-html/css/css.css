@@ -1,0 +1,75 @@
+/*Général*/
+/*----------------------------*/
+
+body{
+  margin:0;
+  font-family: 'Arial',sans-serif;
+}
+
+/*CONTENT*/
+/*----------------------------*/
+
+h1 {
+  margin: 20px 0;
+  font-size: 32px ;
+}
+
+h2 {
+  margin: 10px 0 20px 0;
+  font-size: 24px ;
+  padding: 0 0 10px 0;
+  border-bottom: 4px #0052FF solid;
+}
+
+h3 {
+  margin: 0;
+  font-size: 16px;
+  text-decoration: underline;
+}
+
+.environement ul {
+  margin: 0;
+  padding: 0;
+}
+
+li{
+  margin-top: 10px;
+}
+
+.first-level{
+  padding-left: 5px;
+}
+.second-level{
+  padding-left: 10px;
+}
+
+.third-level{
+  padding-left: 10px;
+}
+
+
+p {
+  margin: 10px 0 10px 0;
+  padding: 0;
+  font-size: 16px;
+  text-align: justify;
+}
+
+a {
+  color: #446EE8;
+  text-decoration: none;
+}
+
+/*CONTAINER*/
+/*----------------------------*/
+
+.container{
+  padding: 20px;
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.elements_autre{
+  margin-bottom: 20px;
+}
